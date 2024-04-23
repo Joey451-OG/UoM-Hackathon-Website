@@ -1,0 +1,4 @@
+YES -> autocompletion
+NO -> angular anaylicts sharing
+CSS -> Standard (Mozilla)
+YES -> Server-Side Rendering and Static Site Generation
