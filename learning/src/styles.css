@@ -3,7 +3,19 @@
 @import "fonts.css";
 
 h1 {
-    color: cadetblue;
-    font-family: "Suez One"; /*YAAA It's working :D*/
-    
+    color: #452293;
+    font-family: "Suez One"; /*YAAA It's working :D*/   
+}
+
+h2 {
+    color: black;
+    font-family: 'IMB Plex Sans';
+    font-weight: 200;
+}
+
+p {
+    color: red;
+    font-family: 'IBM Plex Mono';
+    font-style: italic;
+    font-weight: 100;
 }
