@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+/*There has be a better way to do this*/
+@import "fonts.css";
+
+h1 {
+    color: cadetblue;
+    font-family: "Suez One"; /*YAAA It's working :D*/
+    
+}

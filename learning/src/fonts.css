@@ -1,0 +1,6 @@
+/* This file imports all our fonts from google fonts.
+    the font name is the varable "family" and a (+) sign means
+    space. Eg: family=Suez+One -> font-family: "Suez One"
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Suez+One&display=swap');
